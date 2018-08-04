@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performance-diaries on Paul Rosoman</title>
+    <link>https://paulrosoman.github.io/performance-diary/</link>
+    <description>Recent content in Performance-diaries on Paul Rosoman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Aug 2018 10:45:47 +0100</lastBuildDate>
+    
+	<atom:link href="https://paulrosoman.github.io/performance-diary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kelvingrove Art Gallery and Museum</title>
+      <link>https://paulrosoman.github.io/performance-diary/180805/</link>
+      <pubDate>Thu, 02 Aug 2018 10:45:47 +0100</pubDate>
+      
+      <guid>https://paulrosoman.github.io/performance-diary/180805/</guid>
+      <description>Organ recital Kelvingrove Art Gallery and Museum Argyle Street Glasgow G3 8AG Scotland
+Sunday, 5 August, 2018 - 15:00</description>
+    </item>
+    
+  </channel>
+</rss>
