@@ -21,15 +21,5 @@
 Sunday, 5 August, 2018 - 15:00</description>
     </item>
     
-    <item>
-      <title>My First Post</title>
-      <link>https://paulrosoman.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 02 Aug 2018 10:30:26 +0100</pubDate>
-      
-      <guid>https://paulrosoman.github.io/posts/my-first-post/</guid>
-      <description>Isn&amp;rsquo;t this exciting? Why yes, I believe it is!
-Almost as exciting Almost!</description>
-    </item>
-    
   </channel>
 </rss>
