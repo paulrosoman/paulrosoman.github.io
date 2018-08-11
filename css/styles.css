@@ -12,11 +12,7 @@ body {
   margin-top: 40px;
 }
 /*********************************************************************
-
-
                             Navigation in header
-
-
 **********************************************************************/
 .navbar {
   border-width: 1px 0;
@@ -110,11 +106,7 @@ body {
   color: #000000;
 }
 /****************************************************************************************
-
-
                                      Sidebar special Nav
-
-
 *****************************************************************************************/
 .nav-side {
   font-size: 24px;
@@ -135,11 +127,7 @@ body {
   color: #bd1550;
 }
 /*********************************************************************
-
-
                                 TYPOGRAPHY
-
-
 **********************************************************************/
 p {
   line-height: 1.6em;
@@ -218,14 +206,10 @@ a:hover {
   height: auto;
 }
 /*********************************************************************
-
-
                                 HEADER
-
-
 **********************************************************************/
 #head {
-  background: #f4f4f4 url(../images/pr_head.jpg) top center;
+  background: #f4f4f4 url(../images/pr_head.jpg) center center;
   background-size: cover;
   color: #7C7C7C;
   padding: 30px 0 35px 0;
@@ -252,14 +236,14 @@ a:hover {
   font-size: 14px;
   font-size: 0.875rem;
   line-height: 1.2em;
-  color: #7C7C7C;
+  color: #333;
   margin: 5px 0 0;
 }
 #head .tagline b {
   font-weight: normal;
 }
 #head .tagline a {
-  color: #5E5E5E;
+  color: #333;
 }
 .home #head {
   padding: 90px 0;
@@ -274,11 +258,7 @@ a:hover {
   margin: 15px 0 0;
 }
 /*********************************************************************
-
-
                                 CONTENT
-
-
 **********************************************************************/
 img {
   max-width: 100%;
@@ -503,11 +483,7 @@ img {
   background: none;
 }
 /*********************************************************************
-
-
                                  BLOG
-
-
 **********************************************************************/
 .section-title,
 .entry-title {
@@ -659,11 +635,7 @@ footer.entry-meta .meta-in {
   margin-bottom: 30px;
 }
 /*********************************************************************
-
-
                                 COMMENTS
-
-
 **********************************************************************/
 #comments {
   font-size: 13px;
@@ -755,11 +727,7 @@ footer.entry-meta .meta-in {
   margin: 55px 0 0 0;
 }
 /*********************************************************************
-
-
                                 FOOTER
-
-
 **********************************************************************/
 #footer {
   background: #232323;
@@ -810,20 +778,18 @@ footer.entry-meta .meta-in {
   }
 }
 /*********************************************************************
-
-
                                 SHARE THIS
-
-
 **********************************************************************/
 .st-custom-button[data-network] {
-   background-color: #fff;
-   display: inline-block;
-   padding: 0px 5px 20px 5px;
-   cursor: pointer;
-   font-weight: bold;
-   color: #666666;
-   &:hover, &:focus {
-      color: #004488;
-   }
+  background-color: #fff;
+  display: inline-block;
+  padding: 0px 5px 20px 5px;
+  cursor: pointer;
+  font-weight: bold;
+  color: #666666;
+}
+
+.st-custom-button[data-network]:hover,
+.st-custom-button[data-network]:focus {
+  color: #004488;
 }
