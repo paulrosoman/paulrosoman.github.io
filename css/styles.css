@@ -480,6 +480,13 @@ img {
   background-color: rgba(255, 0, 0, 0.1);
   border: 1px solid #bd1550;
 }
+
+.diary.post {
+  padding-top: 1rem;
+  background-color: rgba(255, 0, 0, 0.025);
+  border: 1px solid #bd1550;
+  margin-bottom: 2rem;
+}
 /*********************************************************************
                                  BLOG
 **********************************************************************/
