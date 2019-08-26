@@ -6,10 +6,23 @@
     <description>Recent content on Paul Rosoman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jul 2019 10:45:47 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 10:45:47 +0100</lastBuildDate>
     
 	<atom:link href="https://paulrosoman.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Organ Concert</title>
+      <link>https://paulrosoman.github.io/performance-diary/190831/</link>
+      <pubDate>Mon, 08 Jul 2019 10:45:47 +0100</pubDate>
+      
+      <guid>https://paulrosoman.github.io/performance-diary/190831/</guid>
+      <description>A Concert for Organ and Brass
+Howden Minster
+Cornmarket Hill
+Howden
+Saturday, 31 August, 2019 - 19:30</description>
+    </item>
     
     <item>
       <title>International Organ Summer Concert</title>
@@ -33,19 +46,6 @@ Sunday, 18 August, 2019 - 16:00</description>
       <description>Klosterkirche
 Maulbronn
 Sunday, 4 August, 2019 - 11:00</description>
-    </item>
-    
-    <item>
-      <title>Organ Concert</title>
-      <link>https://paulrosoman.github.io/performance-diary/190831/</link>
-      <pubDate>Sun, 07 Jul 2019 10:45:47 +0100</pubDate>
-      
-      <guid>https://paulrosoman.github.io/performance-diary/190831/</guid>
-      <description>A Concert for Organ and Brass
-Howden Minster
-Cornmarket Hill
-Howden
-Saturday, 31 August, 2019 - 19:30</description>
     </item>
     
     <item>
